@@ -1,8 +1,8 @@
 # Customer Data Cleaning Project – MySQL
 ## Description
-This project focuses on cleaning, preprocessing, and standardizing customer transaction data imported from Csv into MySQL. It demonstrates essential SQL techniques required for data analytics and real-world data handling.
+This project focuses on cleaning, preprocessing, and standardizing customer transaction data imported from CSV file into MySQL. It demonstrates essential SQL techniques required for data analytics and real-world data handling.
 ## Project Overview
-The dataset was imported from Excel and cleaned using multiple SQL operations such as:
+The dataset was imported from CSV file and cleaned using multiple SQL operations such as:
 
 Handling missing values
 
@@ -22,7 +22,7 @@ Correcting negative numerical values
 
 Strong understanding of SQL data cleaning
 
-Ability to handle messy raw data
+Ability to handle messy raw CSV data
 
 Real-world problem-solving approach
 
@@ -32,7 +32,7 @@ End-to-end SQL preprocessing pipeline
 
 Clone the repo
 
-Import Excel data into MySQL
+Import the CSV file into MySQL
 
 Run the cleaning queries
 
@@ -42,4 +42,4 @@ Start analysis on the cleaned dataset
 
 MySQL
 
-Excel
+CSV (raw data source)
