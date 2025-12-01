@@ -28,6 +28,7 @@ Real-world problem-solving approach
 
 End-to-end SQL preprocessing pipeline
 <a href = "https://github.com/Ziya1701/Customer-Transaction-Data-Cleaning/blob/main/Customer%20Transaction.pdf"> Customer Transaction Data Cleaning report</a>
+
 📌 How to Use
 
 Clone the repo
